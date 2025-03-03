@@ -7,3 +7,4 @@
 7) Make changes on local and push
 8) Solve merge conflict
 9) Update README to include steps to resolve merge conflict
+10) We are learning how to resolve merge conflicts
