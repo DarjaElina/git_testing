@@ -25,3 +25,10 @@
 
 3) After resolving conflicts, push the changes back to the remote repository:
 `git push origin <your-branch>`
+
+## Branch task
+
+1) Create a new branch, do checkout, select created branch
+`git checkout -b <new_branch_name>`
+2) Make changes and push to the remote:
+`git push origin <new_branch_name>`
