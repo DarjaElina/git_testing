@@ -32,3 +32,4 @@
 `git checkout -b <new_branch_name>`
 2) Make changes and push to the remote:
 `git push origin <new_branch_name>`
+3) repeat steps 1 and 2 to practice creating new branches
